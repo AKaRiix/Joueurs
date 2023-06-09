@@ -153,6 +153,12 @@ overflow-x: hidden; */
   /* clear:initial;
   float: inline-end; */
 }
+.Qui p {
+  margin: -1%;
+  /* clear:initial;
+  float: inline-end; */
+}
+
 
 
 /* Bouton à droite */
